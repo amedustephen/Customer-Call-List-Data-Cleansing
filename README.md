@@ -48,7 +48,7 @@ The success of this project can be evaluated using the following metrics:
 ## **DATA CLEANING WORKFLOW**  
 The following steps were performed to achieve the project objectives:  
 
-1. **Data Acquiisition and Profiling**  
+1. **Data Acquisition and Profiling**  
    - Loaded and explored the dataset to identify key data quality issues.  
    - Assessed column data types, duplicate records, missing values, and inconsistent data formats.  
 
